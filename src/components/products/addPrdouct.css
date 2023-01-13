@@ -1,0 +1,14 @@
+form {
+    width: 30%;
+}
+
+.form-control {
+    width: 70%;
+}
+
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 2rem;
+}
